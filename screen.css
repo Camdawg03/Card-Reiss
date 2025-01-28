@@ -2,3 +2,18 @@
 a.active {
     font-weight: bold;
 }
+body{
+    background-color: #424B54;
+}
+
+div{
+    background: #C5BAAF;
+    color: #424B54;
+    margin: 0 auto;
+    width: 500px;
+
+}
+
+h1{
+    background: #B38D97;
+}
