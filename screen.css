@@ -6,7 +6,7 @@ body{
     background-color: #424B54;
 }
 
-div{
+.card {
     background: #C5BAAF;
     color: #424B54;
     margin: 0 auto;
@@ -16,4 +16,5 @@ div{
 
 h1{
     background: #B38D97;
+    padding: 20px;
 }
